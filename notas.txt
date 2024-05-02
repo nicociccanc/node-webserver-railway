@@ -1,0 +1,6 @@
+El puerto hay que ponerlo como una variable de entorno SIEMPRE.
+Comando START (json)
+
+Cuando se despliegue la aplicacion en los hosting
+van a establecer el puerto de manera automatica
+en los enviroments.
